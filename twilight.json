@@ -806,6 +806,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "a9e7de92-75f5-426d-bcbf-528f0f7ae1c1",
+            "title": "banner2",
+            "icon": "sicon-store",
+            "path": "home_banner2",
+            "fields": []
         }
     ],
     "support_url": "https://myfirstapp.com",
